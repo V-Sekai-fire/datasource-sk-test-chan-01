@@ -12,4 +12,4 @@ Open the project in the editor version its project settings pin, then open the a
 
 ## Licence
 
-The repository's own licence is not stated. The avatar's author places it in the public domain, in the note bundled with its source files, and the vendored toon shader is MIT under its own licence file.
+The repository's own licence is not stated. The avatar's author places it in the public domain, as the avatar's metadata states. The vendored toon shader is MIT under its own licence file. The platform SDK packages and the package resolver under `Packages/`, with their bundled libraries, keep their own terms.
